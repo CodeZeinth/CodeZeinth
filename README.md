@@ -6,7 +6,8 @@ I love to code
 * 🌍  I'm based in Chattogram , Bangladesh
 * 🧠  I'm learning C , JAVA , C#
 
-<a href="https://www.x.com/TheCaveCode" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/TheCaveCode" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/TheCaveCode?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/TheCaveCode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TheCaveCode?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
 
